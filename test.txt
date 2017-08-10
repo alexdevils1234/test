@@ -1,3 +1,24 @@
-test
-modify
-again
+An nurse and a doctor walked into a bar.
+
+The place is called <@Student1 to give the name of the bar>
+
+The nurse ordered <@Student2 fill in here> while the doctor still giving more thought what he will be having.
+
+Mr <@Student3 please give this bartender a name>, the bartender asked the doctor. "What will you have for this evening, doc?"
+
+"He had a rough day today", the nurse said. "He need to attend a patient with <@Student4 to fill in here>".
+
+The bartender looked concerned. "How is he?".
+
+"He did not make it", the doctor uttered. "His name was <@Student5>, do you know him?", asked the doctor.
+
+"He worked as a <@Student6 to name a job>", the nurse added.
+
+The nurse took out an envelope from her purse and hand it to the bartender. "He wants you to have this".
+
+The bartender took the letter and read. He turned with a bottle of <@Student7 give a name of the bottle> and pour into a glass.
+
+"Thank you doc, he wants you to have this, it's on the house for both of you", the bartender walks away.
+
+The doc turned to the nurse. With a smile he said, "Works everytime".
+
